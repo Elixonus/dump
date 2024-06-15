@@ -1,4 +1,4 @@
-# trash 🗑️
+# dump 🗑️
 
 ## How to throw away project safely?
 
