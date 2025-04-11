@@ -1,0 +1,923 @@
+commit 229cf6fb5c64c71f6994df5c998fe9f9df5a6136
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu Mar 2 22:00:18 2023 -0800
+
+    Added free license.
+
+commit 6c2780f549605215c8151d27823e40b68337a34e
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 11:51:06 2022 -0700
+
+    finished nn assignment
+
+commit 5be9056fc5af90bad18035f2b80c103f726daa69
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 11:46:55 2022 -0700
+
+    finished program but not working
+
+commit 07013de44c86792d4b4c10848ea5026753777361
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 11:41:02 2022 -0700
+
+    array to string method
+
+commit f91b8d8a3819ac2ffb444557257a90b618a3b77c
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 11:35:41 2022 -0700
+
+    made training method for nn but untested
+
+commit 34c2e1afdd1f73435a6839bedbc838f34a86f26b
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 11:19:15 2022 -0700
+
+    did predict method of nn
+
+commit a3035e82be50bc8ac5bc6a321ee1f54d24a5868c
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 10:35:32 2022 -0700
+
+    added main class for testing
+
+commit 8726314b8eeef0bc0280ccdbdf96bf417ef765a6
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 10:04:17 2022 -0700
+
+    made perceptron constructor
+
+commit bdb9df17bd8f4874e646b74e080531038010c555
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Jun 1 09:40:14 2022 -0700
+
+    renamed files
+
+commit b47ee8d9e040ccad12404fa8f99c88427f4cf8d1
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed May 25 09:04:07 2022 -0700
+
+    fixed stegan bugs
+
+commit 59898a74f742c55a363e85e5af6b2bda5c75a08b
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed May 25 08:53:55 2022 -0700
+
+    fixed compression bug
+
+commit 4cf5dd36cc627dce009f757247f553f90d6f85ce
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed May 25 08:08:47 2022 -0700
+
+    added assets
+
+commit 7a9b99af362c38002640606fd0d154a4ae924cd8
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 23 15:22:41 2022 -0700
+
+    added images
+
+commit 804534a5efc48b75f206aa547c4d49cff0012362
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 23 15:13:11 2022 -0700
+
+    added comments for submission
+
+commit 49bf558975de1f8cb31643924bb1e33af430c9b4
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 23 14:39:38 2022 -0700
+
+    different noise
+
+commit 3d48dafa67533121d8e2e59bd5f8e3d691666fb3
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 23 09:20:58 2022 -0700
+
+    made more distortion
+
+commit 9bc3c51d84d9a6957f7c33372d30384d4e41bacf
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 23 09:09:47 2022 -0700
+
+    made random distortion only for encoding
+
+commit a32cf60bfa5d18fba20e4f40ad79f13a4d012544
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 21:41:06 2022 -0700
+
+    actually got encodation and decoadtion working
+
+commit 8d86a06f22b7ea1e8fcaafb95f2ec15e2bcacfa9
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 19:48:13 2022 -0700
+
+    decode not working maybe encode
+
+commit 5ba79d7c6a323a9a5de0c529b6700d89f5e02bcd
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 19:43:07 2022 -0700
+
+    encode and decode method finished but untested
+
+commit 5f3a0f4d0e6e0059837c4e781d8d1d333bdadf91
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 19:33:19 2022 -0700
+
+    bugs left
+
+commit 9ab427f56ff9636c6d9c0d03850fec1810e31025
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 19:01:10 2022 -0700
+
+    added random seed for encode method
+
+commit 9661d0edf2fc177bbb892d6c007c3e3541b76a9e
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 18:48:49 2022 -0700
+
+    did first attempt of encode method
+
+commit 1f9e8c4e0747cff112733dee4592640ce1f81b0c
+Author: Daxonus <elias@dobrin.net>
+Date:   Sun May 22 18:26:44 2022 -0700
+
+    made pixel replacing for encode method of picture class
+
+commit 9d539cacd4070ef8c584dfc5f14979d314fecea7
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue May 17 08:56:03 2022 -0700
+
+    added logging for teacher
+
+commit 21594fd7e8365208ba547a3f7af7a3d60b339fd6
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue May 17 08:46:05 2022 -0700
+
+    added lab assess 3
+
+commit 5a3add243716c95b3b868c95ed1501f9de61700c
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon May 16 08:48:17 2022 -0700
+
+    runner modified for lab test
+
+commit 152bf12a3e2b52c40c83f653b222bab0b8689acc
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Apr 19 09:28:54 2022 -0700
+
+    added win screen
+
+commit d6f0c245ebdfb94e0d2765450cfb7ef89a2e297c
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Apr 19 08:22:28 2022 -0700
+
+    fixed collision detection
+
+commit b53a7b98d2467caade192a6c8a8b2df6e350f5f9
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 23:12:37 2022 -0700
+
+    collisions working
+
+commit 741e96fa72ee8ac04df85f435e73f9dc46d2264c
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 22:53:16 2022 -0700
+
+    alien horde moving successfully
+
+commit 62549cd11e8b50a312164d53b633a85aced2abac
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 21:50:36 2022 -0700
+
+    worked on bullets class
+
+commit 78310cb0da7fdd88da98898168a3a73299bb8f23
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 21:41:46 2022 -0700
+
+    ammo cooldown working
+
+commit 56a82853fce033d042d177b716ede91d25ae8833
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 21:36:43 2022 -0700
+
+    ammo barely working
+
+commit 01aab2c08094f35bcc0c4d26efb2de3b71906a0d
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 21:21:35 2022 -0700
+
+    fixed bugs, ship and aliens display working
+
+commit 929fbe570152b60bd89a8198b44a5baad3c473f4
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 20:49:25 2022 -0700
+
+    did alien class
+
+commit a2be8988a145bc523ddfc55fa7b5c5460b6a0c25
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 20:41:55 2022 -0700
+
+    moving code
+
+commit f7a62444315f124882964c9864cdf72b2e8e3144
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 20:33:25 2022 -0700
+
+    did ship class
+
+commit 65628a1b33b7cfba4275472a01720fc878d0299e
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 18 20:21:44 2022 -0700
+
+    finished moving thing
+
+commit 91fe6b083b3378e102b6894eae86c90a9f17041b
+Author: Elixonus <elias@dobrin.net>
+Date:   Mon Apr 18 13:05:34 2022 -0700
+
+    added unit 17 materials
+
+commit 80769b519b3eddf3dd1162d391717853ef21cb97
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 10:02:20 2022 -0700
+
+    finished final assignment A9
+
+commit e7d6fdf43d090315383bb37a7c1c7d3b9ee4491e
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 09:54:05 2022 -0700
+
+    finished assignment A8
+
+commit 68ef9853db7dbdd2793001eea920743af44ed661
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 09:39:23 2022 -0700
+
+    finished assignment A7
+
+commit 492e21780eaf2b9ace203b2d098f590b5f09c7a1
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 09:27:17 2022 -0700
+
+    finished assignment A6
+
+commit af6443da05c2171b60b8be3c2b0def87988e3b25
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 08:58:35 2022 -0700
+
+    added some missed methods
+
+commit fd92f726fbd7cd482357f015e6f33c6468ac9eb4
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 08:55:22 2022 -0700
+
+    completed assignment A5
+
+commit c5b90f8287f5a3762dc891abda839d5d5e6b9c58
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 08:29:37 2022 -0700
+
+    completed A1-A4 assignments of picture lab
+
+commit 3b980b772a09d90d5d5a5d57695f480156237993
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Apr 11 08:00:28 2022 -0700
+
+    added unit 16 materials
+
+commit aceee9dc9203ce6aa992d398cdb9a6041a76279e
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Mar 31 08:26:13 2022 -0700
+
+    fixed ball super class and blinky ball extension
+
+commit 1ba557502a2ca9a056eb3a4820e421ca6c9e3969
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Mar 30 10:24:16 2022 -0700
+
+    key events
+
+commit 1a04badaccfbbbf9eb2b522826ff997b3e0b0bd6
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Mar 30 10:22:06 2022 -0700
+
+    some edits to pong java
+
+commit 095447e570b8275d27924e8b568e40275a473b87
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Mar 30 10:06:00 2022 -0700
+
+    added many draw methods and fixed a lot of methods
+
+commit cfcd7941c781c99f3c9c466e6950baf07d348640
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 09:04:47 2022 -0700
+
+    added ball collides with right paddle
+
+commit e8d5de6d19ab7432fff55e3d6a83345aa3f099ca
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 08:57:28 2022 -0700
+
+    added ball and left paddle collision
+
+commit 0fa2a48ccd84c2efac10160734c1d251db2af8fb
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 08:44:41 2022 -0700
+
+    fixed equals and toString method of ball class
+
+commit 914aa17f997b5ab2f57de2164009f41e3edf80c4
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 08:34:29 2022 -0700
+
+    added name header
+
+commit 241ea8a9a52f65fac6c4249096a0b3967714e83e
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 08:28:51 2022 -0700
+
+    added pong1 doc and pong2 docs
+
+commit 9786d6dea2a37d4f0bdf7ca46085fc3262db0959
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Mar 29 08:21:25 2022 -0700
+
+    made copy of lab and reverted changes
+
+commit a3bad4b5e5c97eb35688f292f50791888f81336a
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Mar 25 09:11:19 2022 -0700
+
+    made blinky ball random color
+
+commit 576c36f073eea889dc820cd256d6105c043d6d63
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Mar 25 09:09:48 2022 -0700
+
+    fixed blinky ball class and added ball toString method
+
+commit 03c338e8acafc284644f5ecb8285cc151a0f8ec5
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Mar 25 09:03:45 2022 -0700
+
+    got test cases working
+
+commit 91da06be94081459db7dcf036d5f53809ca1c9b0
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Mar 25 08:42:46 2022 -0700
+
+    modified ElevensBoard for Act9_LabAssessment_A
+
+commit 497b812c32e43d7aeca4814482ffb7d89284e509
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Mar 14 09:19:33 2022 -0700
+
+    not sure what to do for next part
+
+commit 2daecd555c79efa6556bee46a2e0c584bacd84ab
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Mar 14 09:09:26 2022 -0700
+
+    finished pong3 and paddle test one successfully working
+
+commit dcbc5c340edcc668498e6df050920c29c523cc6f
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Mar 14 08:17:14 2022 -0700
+
+    added unit 15 materials
+
+commit 30e5212b7c8a5809b56b305ebd07594cda168a09
+Author: Elias <elias@dobrin.net>
+Date:   Tue Mar 1 18:50:32 2022 -0800
+
+    finished word search
+
+commit 026fea593d1590aeebeff9094c0b6e4736731378
+Author: Elixonus <elias@dobrin.net>
+Date:   Tue Mar 1 09:29:45 2022 -0800
+
+    barely started word search assignment
+
+commit 30a776c9b09efa5d00e076ebaaca6798e7096a90
+Author: Elixonus <elias@dobrin.net>
+Date:   Tue Mar 1 09:25:59 2022 -0800
+
+    finished word sort assignment
+
+commit a83f3d2cf5bbd0decfb5b7e9779d70398cc0b9c3
+Author: Elixonus <elias@dobrin.net>
+Date:   Tue Mar 1 09:14:57 2022 -0800
+
+    finished number sorted assignment
+
+commit a69247c8ec6aa4fcf222e52059e6ed0f32a70eec
+Author: Elixonus <elias@dobrin.net>
+Date:   Tue Mar 1 08:56:30 2022 -0800
+
+    finished number shifter assignment
+
+commit 9eb85c7a337910717c088e2e93d2acbb68fc0a17
+Author: Elixonus <elias@dobrin.net>
+Date:   Tue Mar 1 08:26:06 2022 -0800
+
+    added unit 13 materials
+
+commit 21926415a934a3c09c43aac3ae73eaff308368af
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 11:45:34 2022 -0800
+
+    finished grid assignment
+
+commit 00c57a5899233e4d65bf1799bbaba93c11a533e4
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 09:24:12 2022 -0800
+
+    fixed recursion fun one assignment
+
+commit 15efa0de748dca219a7353f040e3614ce118fe48
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 09:16:31 2022 -0800
+
+    finished recursion fun three assignment
+
+commit bca0c34f13f49d1e48d038f23e2fd033b3ccfff6
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 08:44:09 2022 -0800
+
+    finished total row assignment
+
+commit 186240850cb67f5bf1b3f297eddcfd4da73fb10e
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 08:35:20 2022 -0800
+
+    finished recursion assignment
+
+commit 69db1198b45f1133504d44ed0de2dac4f35d9043
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 08:22:30 2022 -0800
+
+    finished matrixcount1 assignment
+
+commit fcf9d06974d886ac672b8a8c6d4196a15353a095
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 28 08:12:25 2022 -0800
+
+    added unit 14 materials
+
+commit 440a4f91fb1a2b5ff2f15aa56d357515abc64eee
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Feb 18 08:46:51 2022 -0800
+
+    finished elevens law with bugs left
+
+commit 865f8e067928b0878621493d34981b7c5a204691
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Feb 18 08:32:58 2022 -0800
+
+    added sum11s method and hasJQK to elevens lab
+
+commit 180ed72034e6309e267e43be656dc875e3b81b1a
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Feb 17 09:13:20 2022 -0800
+
+    added unit 9 package image materials
+
+commit 1d40428a73878ba34a1dd657b5122d99706c7682
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Feb 17 09:01:41 2022 -0800
+
+    finished word assignment and unit 12
+
+commit 5b090a58ec87ac94b251cea1975b89d4b8b03a3c
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Feb 17 08:35:02 2022 -0800
+
+    finished monster assignment
+
+commit 2353b20b61b384c9b457b5377286e2d2e6ba9382
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Feb 17 08:08:25 2022 -0800
+
+    added unit 12 materials
+
+commit 2f26ca56703eadb4706a87a60286b268b54c47f3
+Author: Elias <elias@dobrin.net>
+Date:   Wed Feb 16 22:10:04 2022 -0800
+
+    finished rational assignment and unit 11
+
+commit b0e3d7809a05d967a542103c625d1fec805798b8
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Feb 16 08:58:22 2022 -0800
+
+    still working on rational assignment
+
+commit 7b85ec5ec5dce467d767677f46b5c4e240ea7207
+Author: Daxonus <elias@dobrin.net>
+Date:   Wed Feb 16 08:42:29 2022 -0800
+
+    finished toy store assignment
+
+commit d038b5be42cbb0017b8fb6dc71fa2725db934ce7
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 11:45:59 2022 -0800
+
+    still not finished with toy store assignment
+
+commit 7bf7c383aa4cb799af4dc700712e9c9692f61aae
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 09:29:25 2022 -0800
+
+    still working on toy store assignment
+
+commit fff9c5efb09d5cd20193f8bd157d45243cfc99d1
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 08:39:46 2022 -0800
+
+    finished triangle word assignment
+
+commit 37c7d87f34a89189ba24828e6c2a9f25744cac49
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 08:30:48 2022 -0800
+
+    finished dog and doggies assignment
+
+commit 3b2597b0e1c4b3eb4c2dcddfea85ebfa44ba472f
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 08:14:17 2022 -0800
+
+    finished word printer assignment
+
+commit 7b164e89ab348e388b3b50e98e0953d6dee7288b
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 14 08:06:13 2022 -0800
+
+    added unit 11 materials
+
+commit 6531648dc3fd13219bfb697722f6c7e30672567d
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 15:20:14 2022 -0800
+
+    implemented deck class with arraylist instead of array
+
+commit ce7201625145c247d902e47cd882b95c0b21919c
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 15:11:03 2022 -0800
+
+    finished list down assignment
+
+commit 630fb8338b33e3bc9a887372ca73c9128be19309
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 15:00:48 2022 -0800
+
+    finished list odd to even assignment
+
+commit 8ddf6fc3b14dd5236046513d02a4b19a51bed5f0
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 14:46:38 2022 -0800
+
+    finished list sum values assignment
+
+commit 647fe842b5ddc621b8b7c9bab4ac5209de17916f
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 14:21:10 2022 -0800
+
+    fixed unit 9 materials structure
+
+commit b7f05bb98f9aa47bb2941444de8c0aa9d0fd2eb6
+Author: Elias <elias@dobrin.net>
+Date:   Thu Feb 10 14:05:07 2022 -0800
+
+    added unit 9 list materials
+
+commit ac11efd6438ce9aa8e2e9eabe8574c15957d039b
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Feb 8 08:57:57 2022 -0800
+
+    Create Unit9_Activity5_buggy_questions.txt
+
+commit 98074df339b11ef98c218a7aed021246cc1e3ca7
+Author: Daxonus <elias@dobrin.net>
+Date:   Tue Feb 8 08:56:52 2022 -0800
+
+    fixed small unit 9 deck size bug
+
+commit 20198c87f3af5116165ed0167251e3ee8cd04767
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 09:18:36 2022 -0800
+
+    added unit 9 buggy 1-4 materials
+
+commit 09500a322af8f4b2fc2a6a0cba6678cf720439e4
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 09:14:20 2022 -0800
+
+    debugged method
+
+commit 3e2c1bb97d9119085cf3520f10cb54381667fb98
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 09:07:26 2022 -0800
+
+    added unit 9 activity 5 materials
+
+commit 1cba10a1f930d5035108868690fb4274bf9f7a49
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 08:53:32 2022 -0800
+
+    renamed unit 9 act 1-3 to 1-4
+
+commit a8233740087e9d9cff0d41c7d716107f56d53b99
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 08:52:13 2022 -0800
+
+    added shuffle test case to one of decks
+
+commit 904bb582aafbf42808023b448fd465f0efd0c8a9
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 08:47:42 2022 -0800
+
+    finished deck tester
+
+commit d142181727aef4f7913af93bb0104537b5821de3
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Feb 7 08:28:26 2022 -0800
+
+    finished deck tester file
+
+commit b5ece52b254d15446705381ba984735dd36d3fce
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Feb 4 09:21:15 2022 -0800
+
+    got card deck deal method working and deckrunner
+
+commit 8672fb90b64041013f6eb1a1509d0747c57d05bd
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Feb 4 09:02:59 2022 -0800
+
+    reorganized unit 9 7-9
+
+commit bbcaed5f8e41636c786b55a8034775a63ad71db0
+Author: Daxonus <elias@dobrin.net>
+Date:   Fri Feb 4 09:01:27 2022 -0800
+
+    working on unit 9 activities 1-3
+
+commit 13b128f4984404419dd936a7259aa360046b2c17
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Feb 3 08:25:25 2022 -0800
+
+    did some deck code
+
+commit d4d2b5d0b29322073309382d43270031122c7b0e
+Author: Elias <elias@dobrin.net>
+Date:   Mon Jan 31 19:21:12 2022 -0800
+
+    finished part of unit 9 activity 1
+
+commit e1eeb29200158b119a81996fa9ea647355d0dc99
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 31 08:01:03 2022 -0800
+
+    added unit 9 materials
+
+commit a599e3613cc794c9da6ffca3f649a821b5ef0b76
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 27 14:11:21 2022 -0800
+
+    finished ray down assignment
+
+commit e599961ac7eff10f978b9d33e859ed54f8e60eb3
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 27 13:31:44 2022 -0800
+
+    finished ray odd to even assignment
+
+commit c92123c3f04fcb93a65ba893f217a0774428dc98
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 22:11:47 2022 -0800
+
+    finished ray sum assignment
+
+commit 1ab5a362e9ee1e1742c3c72ebe4f1b6c10d7d5bb
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 21:52:00 2022 -0800
+
+    added unit 8 materials
+
+commit 706661c59c49730bdc55a1f86768809153bd4df2
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 19:24:15 2022 -0800
+
+    finished triangle five assignment
+
+commit e2c34d28352e51cdfec180dba65fc43209b9f80b
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 19:00:38 2022 -0800
+
+    finished triples assignment
+
+commit 2d638e48fdd6168912265ff63156d3cffd7f8787
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 18:39:21 2022 -0800
+
+    finished rock paper scissor game assignment
+
+commit 5475b9584cc5ec53e48eb8f3dbef33ca040a0300
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 18:19:13 2022 -0800
+
+    finished biggest double assignment
+
+commit 0f1bb5fea6ab98615c44c86895ef9be86584aefc
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 17:02:08 2022 -0800
+
+    added unit 7 materials
+
+commit c2ddbfa2b8b8a02c8c848173e8c85da8caf0d2f6
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 16:59:13 2022 -0800
+
+    finished letter remover assignment
+
+commit f66e366a15f986222b72fee944099471c98e5589
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 16:39:23 2022 -0800
+
+    finished perfect number assignment
+
+commit e5ded078aaa0fd5b2ee8a7dc867ef5e3dddc581b
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 16:24:19 2022 -0800
+
+    finished backwards assignment
+
+commit b639bb9807eccf7f335f90f1cbb565b42599c0bc
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 16:15:22 2022 -0800
+
+    completed triangle print assignment
+
+commit 120be8da0841fe471fdaeeb40875a129a799153c
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 16:03:34 2022 -0800
+
+    completed pairs counter assignment
+
+commit 2b8daafaf5e995a85e75baa7e186a97fc25e768a
+Author: Elias <elias@dobrin.net>
+Date:   Wed Jan 26 15:50:48 2022 -0800
+
+    added unit 6 materials
+
+commit b79b4dbf18e4ed2422f304c33b79aaf87a19eea2
+Author: Elias <elias@dobrin.net>
+Date:   Mon Jan 24 18:20:54 2022 -0800
+
+    finished string equality assignment
+
+commit b457d3ad591371dd53d2dff8b45a004371d16c95
+Author: Elias <elias@dobrin.net>
+Date:   Mon Jan 24 18:08:11 2022 -0800
+
+    finished words compare assignment
+
+commit f2b016a128e1e0f7580e2cf1bb87a439e8015f80
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 11:45:20 2022 -0800
+
+    formatted words compare assignnment
+
+commit 6cf19e79eb104379da7b6a5db4b662e0f27070f7
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 11:42:21 2022 -0800
+
+    finished string odd or even assignment
+
+commit 59fb4c6d7b1de94a64852f2643b59f77ac54f377
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 09:31:02 2022 -0800
+
+    not finished with vowels assignment
+
+commit cacb09beeaed5062e9cac819cd7cc0c047bf21e7
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 09:19:37 2022 -0800
+
+    finished avglen assignment
+
+commit c470e3dc46feab478f41a160c1f363eacc077cb8
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 08:09:59 2022 -0800
+
+    Delete JavaStringLabRunner.java
+
+commit 23a95daced8de3c2ffceeb8dbc231c9b809799a8
+Author: Daxonus <elias@dobrin.net>
+Date:   Mon Jan 24 08:09:14 2022 -0800
+
+    added unit 5 materials
+
+commit 2ee45b5c10c9fb93dfe861ad3c81d10a2244990a
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:44:43 2022 -0800
+
+    finished discount assignment and unit 4
+
+commit 7f00aa7344d87cb2353d783232e2024c45ef220a
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:34:46 2022 -0800
+
+    finished odd even num lab
+
+commit 3d1b0432df5df79045e5498491d1314d6b975b69
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:20:58 2022 -0800
+
+    removed unneeded java file
+
+commit e31660b62ad1d087c6dad0e10e0ff61b3a067fcf
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:18:42 2022 -0800
+
+    finished add sub mult assignment
+
+commit cf2ede487366c3bd4d70b7def2c07e1e6f0ebe1b
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:12:39 2022 -0800
+
+    added unit 4 materials
+
+commit 396ab3931400f8c660e3c6f2aa2acc0f40e655e9
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 11:04:35 2022 -0800
+
+    finished unit 3
+
+commit 027a482f12d0f911f45de2d90028649f648aede7
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:42:13 2022 -0800
+
+    finished miles per hour assignment
+
+commit 695c5b1d42f8d8d1cb1c0c8d0f5092dea3cdc571
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:13:43 2022 -0800
+
+    some metadata
+
+commit a506dcf0ce861c911ccdd9fe93bbbfbfa85a8b3d
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:12:31 2022 -0800
+
+    added unit 3 materials
+
+commit 550423bc1eae1b2a8ed2568345ef81f66f0025c6
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:10:18 2022 -0800
+
+    finished line assignment
+
+commit f3a0368d1a976ed3b2d3fa111092cee0ead632af
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:05:08 2022 -0800
+
+    finished cube assignment
+
+commit 6efc39fab2ce32658891fe792107843283d5b32e
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 10:00:50 2022 -0800
+
+    finished trap assignment
+
+commit 2af382cec56444c92478f7ab209a45f106a9ba1d
+Author: Elias <elias@dobrin.net>
+Date:   Thu Jan 20 09:53:09 2022 -0800
+
+    added unit 2 assignment materials
+
+commit ddc7ccc4e13e238d6fd67b71673f69fe0d67ee4a
+Author: Elias <elias@dobrin.net>
+Date:   Sun Jan 16 15:34:11 2022 -0800
+
+    completed unit 1 assignments
+
+commit 3ca8ad4ba1721b201214f1fc15f11e5439e6023a
+Author: Elias <elias@dobrin.net>
+Date:   Sun Jan 16 15:21:26 2022 -0800
+
+    added unit 1 assignment to do
+
+commit 33bb16c89240456017a7f61db55ad14fddbd608f
+Author: Elias <elias@dobrin.net>
+Date:   Sun Jan 16 15:19:01 2022 -0800
+
+    completed unit 0 assignments
+
+commit 23c2ff8d081351d0b64be1068b19161672ac6f85
+Author: Daxonus <elias@dobrin.net>
+Date:   Thu Jan 13 09:03:38 2022 -0800
+
+    Initial commit
