@@ -1,0 +1,198 @@
+commit 63dff008a74fce3a2d7626245ee1d81c06c95872
+Merge: 1d481f5 6a19205
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Sep 6 19:43:45 2025 -0700
+
+    Merge branch 'main' of https://github.com/Elixonus/hydrodynamics
+
+commit 1d481f5fd4a0bf3990b3b72efabf932e9716d766
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Sep 6 19:43:11 2025 -0700
+
+    small changes
+
+commit 6a19205068c6c1cf59b63f7022b9af3250f2efc8
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Sep 6 19:43:11 2025 -0700
+
+    small fixes
+
+commit 6c9efebd6315a9ae508da7f13251c74b4d5f56d0
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue Aug 26 13:06:57 2025 -0700
+
+    fixed weight functions
+
+commit 85efccde7dc905aed7824f212b23b52d075f01f4
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue Aug 19 11:44:58 2025 -0700
+
+    small changes to library
+
+commit f8ffae2c5671fb13bb13267460b323c12cf29cf5
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Mon Apr 14 21:58:09 2025 -0700
+
+    added external define to sph library for calculation in any number of dimensions and added header
+
+commit f546f5646566de7ffdbcc450d1b870e60e7efe28
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue Apr 8 13:10:12 2025 -0700
+
+    small fixes to naming
+
+commit 51496fbb49c3d9d1a75947d7e0f74b7579c8b04e
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu Apr 3 23:04:31 2025 -0700
+
+    library code complete
+
+commit 87ae14da9b608ab4f3abc174ed0fe64f3dac70a3
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu Apr 3 20:28:39 2025 -0700
+
+    fresh start, restructured library
+
+commit aa68ac2970369b34779803113f2530f529a2744d
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sun Aug 4 14:44:58 2024 -0700
+
+    added circular acceleration function
+
+commit b2002ba32fa8c33338e256056fa9d37a3385a8b6
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Jun 22 14:40:46 2024 -0700
+
+    fixed nan bug.
+
+commit 5cd1594be3294effddc4dd673950dd14b99cc42b
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 21 18:34:18 2024 -0700
+
+    Update main.c
+
+commit 727f7e2fa166ceba06389ca49cd51e062c9039d7
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 21 18:21:37 2024 -0700
+
+    fixed bugs (function array return).
+
+commit c46710a681357cf39358b3878c599f4c6db323d8
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu Jun 20 16:40:26 2024 -0700
+
+    fixed nasty memory bug.
+
+commit 39fdf18a3eae80f409adf725da1197b9f715bef0
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 14 21:03:30 2024 -0700
+
+    tuned parameters
+
+commit 68ef0c226f733e85216b7c30bc53fe37487b6e26
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 14 18:01:19 2024 -0700
+
+    working colormap
+
+commit 94754e642d619efc1bb40564f8ff1127e2acd2e8
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 14 16:19:17 2024 -0700
+
+    made fluid work.
+
+commit 75abcd16edc5b126d10ceb7344578deef2ec7f64
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Fri Jun 14 15:02:12 2024 -0700
+
+    updated fluid project.
+
+commit 0dd3b76a3049ac7034b6f533f3e0c1ce465383a2
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Jun 8 15:30:31 2024 -0700
+
+    added poly6, spiky, viscious kernels (one function each).
+
+commit 3719c65423e924cd65652af78f6cf7f70822035b
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu Jun 6 17:31:33 2024 -0700
+
+    nasty bug probably fixed.
+
+commit 11f96879832ddbdd571ca3f95e650683634f1856
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Wed Jun 5 17:52:35 2024 -0700
+
+    worked on rendering and simulation and left with nasty bug.
+
+commit 9edf873971ee358fdea64f782635e7ebbe64d290
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Jun 1 17:58:14 2024 -0700
+
+    working on basic rendering and execution.
+
+commit 83b36b3755146cc97c1982f95b9dcc3e6f1e30d5
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat Jun 1 17:10:54 2024 -0700
+
+    made some progress on data management.
+
+commit f2e9399f9a5111a4c3255a5a17f2deb377a7a0f9
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue May 28 20:29:53 2024 -0700
+
+    did compute acceleration procedure.
+
+commit b5877e97bc26fce830a78422d6ac4969be34dc06
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue May 28 20:05:19 2024 -0700
+
+    partition algorithm and compute densities done.
+
+commit 026c78e79ad28fc2a75939d18dfc92ad84616372
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue May 28 19:17:48 2024 -0700
+
+    Compilation working and added basic particle memory management.
+
+commit 0168ad0e16a4889b80faecb102f1bf9745257f41
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Tue May 28 18:12:14 2024 -0700
+
+    Changed much of the structure.
+
+commit 68c4fd6ddd910f17e0e8cff6f5ccb2a47bd0b3f8
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat May 25 19:19:19 2024 -0700
+
+    Volume error working.
+
+commit fe93f65a7636662a364dfa1e1aec02b7fea7d7ec
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat May 25 17:19:30 2024 -0700
+
+    Kernel integration test working.
+
+commit ba91474701bc513494594dc44a2bb5a1f296aae6
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Sat May 25 16:32:47 2024 -0700
+
+    Fixed bugs.
+
+commit 1434bf1576813bd720d60ea54259fec73667cc92
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Thu May 23 18:09:11 2024 -0700
+
+    working on kernels
+
+commit a08592554826f74a982cbf2e31ff19f1792a7c35
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Wed May 22 18:02:58 2024 -0700
+
+    initial library
+
+commit 04b37316195e51d53d7605ad80a113dbf254eb6b
+Author: Elias Dobrin <elias@dobrin.net>
+Date:   Wed May 22 16:50:22 2024 -0700
+
+    Initial commit
